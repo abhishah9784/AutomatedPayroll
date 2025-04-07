@@ -80,9 +80,14 @@ This project is licensed under the MIT License.
 
 ---
 
+
 ## Contact
 
 **Developer:** Abhi Shah  
 **Email:** abhishah9784@gmail.com  
 **LinkedIn:** [Abhi Shah](https://www.linkedin.com/in/abhi-shah-8077412b5)  
 **GitHub:** [abhishah9784](https://github.com/abhishah9784)
+
+## Contract Details: 0xd10B9d237de3c77B8f98fef673AFF99cD3e56c77
+![image](https://github.com/user-attachments/assets/7ead5d10-35a7-4bfe-8e21-91134ffb5877)
+
